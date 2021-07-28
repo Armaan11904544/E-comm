@@ -22,5 +22,31 @@
   	height:500px;
   	padding-top:100px;
   }
+  img.slider-img{
+  	height: 400px !important
+  }
+  .custom-product{
+  	height: 600px
+  }
+  .slider-text{
+  	background-color:#878c8761 !important;
+  }
+  .popular-image{
+  	height: 100px;
+  }
+  .popular-item{
+  	float: left;
+  	width: 20%;
+  }
+  .popular-wrapper{
+  	margin: 30px;
+  }
+  .detail-img{
+    height: 200px;
+  }
+  .search-box{
+    width: 500px !important
+  }
+
 </style>
 </html>
