@@ -12,7 +12,7 @@
               <a href="detail/{{$item['id']}}">
               <img class="popular-image" src="{{$item['gallery']}}">
               <div class="">
-                <h3>{{$item['name']}}</h3>
+                <h2>{{$item['name']}}</h2>
                 <h5>{{$item['description']}}</h5>
               </div>
             </a>
